@@ -1,4 +1,5 @@
 <?php
+// CONTACT US FORM 
 $error_msg_fname="";
 $fname="";
 $phone_number="";
